@@ -1,0 +1,35 @@
+{
+  "errors": {
+    "planCostShares": {
+      "deductible": "The 'deductible' field must be an integer.",
+      "_org": "The '_org' field must be a string.",
+      "copay": "The 'copay' field must be an integer.",
+      "objectId": "The 'objectId' field must be a string.",
+      "objectType": "The 'objectType' field must be a string."
+    },
+    "linkedPlanServices": {
+      "linkedService": {
+        "_org": "The 'linkedService._org' field must be a string.",
+        "objectId": "The 'linkedService.objectId' field must be a string.",
+        "objectType": "The 'linkedService.objectType' field must be a string.",
+        "name": "The 'linkedService.name' field must be a string."
+      },
+      "planserviceCostShares": {
+        "deductible": "The 'planserviceCostShares.deductible' field must be an integer.",
+        "_org": "The 'planserviceCostShares._org' field must be a string.",
+        "copay": "The 'planserviceCostShares.copay' field must be an integer.",
+        "objectId": "The 'planserviceCostShares.objectId' field must be a string.",
+        "objectType": "The 'planserviceCostShares.objectType' field must be a string."
+      },
+      "_org": "The '_org' field must be a string.",
+      "objectId": "The 'objectId' field must be a string.",
+      "objectType": "The 'objectType' field must be a string."
+    },
+    "_org": "The '_org' field must be a string.",
+    "objectId": "The 'objectId' field must be a string.",
+    "objectType": "The 'objectType' field must be a string.",
+    "planType": "The 'planType' field must be a string.",
+    "creationDate": "The 'creationDate' field must be a string."
+  }
+}
+
